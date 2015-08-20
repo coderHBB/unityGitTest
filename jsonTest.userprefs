@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\testJson.cs">
+    <Files>
+      <File FileName="Assets\JSON Tests\CSharp\Test_CSharp.cs" Line="1" Column="1" />
+      <File FileName="Assets\plugins\SimpleJSON.cs" Line="1" Column="1" />
+      <File FileName="..\..\bitQuid webplayer\Assets\scripts\loadManager.cs" Line="311" Column="3" />
+      <File FileName="Assets\testJson.cs" Line="7" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
